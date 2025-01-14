@@ -21,9 +21,14 @@ Software plays a critical role in modern society, but its energy consumption has
 This repository contains the results of 26 optimization techniques implemented in C and Python, obtained using the hardware measurement instrument EET.
 
 ## How is structured?
-This folder contains two main folders: C and Python.
+This repository contains one main folder: Programming-Languages
 
-### C f
+### Programming-Languages 
+This folder contains the following programming languages:  
+
+- **C** and **Python**  
+   - Includes the code for 26 optimization techniques.  
+   - Includes the results obtained from applying these techniques, focusing on their energy impact.
 
 ## Contacts
 [Green Team Alarcos](https://greenteamalarcos.uclm.es/)
