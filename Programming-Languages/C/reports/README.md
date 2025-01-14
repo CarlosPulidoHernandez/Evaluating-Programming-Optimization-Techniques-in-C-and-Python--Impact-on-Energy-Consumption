@@ -1,10 +1,10 @@
 ### C reports
 
 Contains the reports for each of the techniques in the following format:
-- **Technique@Test1_O0** (using optimization level O0 without applying the technique)
-- **Technique@Test2_O0** (using optimization level O0 after applying the technique)
-- **Technique@Test1_O3** (using optimization level O3 without applying the technique)
-- **Technique@Test2_03** (using optimization level O3 after applying the technique)
+- **Technique@Test1O0** (using optimization level O0 without applying the technique)
+- **Technique@Test2O0** (using optimization level O0 after applying the technique)
+- **Technique@Test1O3** (using optimization level O3 without applying the technique)
+- **Technique@Test203** (using optimization level O3 after applying the technique)
 
 There are two global reports:  
 - **testcases_total.xlsx**: Contains the results for all test cases.
